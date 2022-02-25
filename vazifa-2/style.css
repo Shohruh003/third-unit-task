@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(243, 241, 241);
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+h2 {
+    color: blue;
+}
+.last-text {
+    color: blue;
+}

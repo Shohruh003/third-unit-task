@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(216, 128, 66);}
+.text-heading {
+    text-align: center;
+    color: white;
+}
+ul {
+    background-color: white;
+        color: rgb(209, 109, 109);
+        list-style-type: none;
+    }
+.middle-text {
+    text-align: center;
+    background-color: tomato;
+}
+.strong-text {
+    color: white;
+}
+.last-text {
+    text-align: center;
+    color: white;
+}
